@@ -11,4 +11,4 @@ Mülk sahipleri, kiralama sözleşmelerini uzatabilirler.
 Mülk sahipleri, kiralama sözleşmelerini iptal edebilirler.
 Kiralama sözleşmeleri oluşturabilir ve bilgilerini alabilirsiniz.
 Kiracılar, sahipler ve mülkler hakkında bilgi alınabilir.
-Bu kontrat, kiracılar, sahipler ve kiralama işlemleri arasındaki etkileşimleri güvenli ve verimli bir şekilde yönetmek için kullanılabilir. ###
+Bu kontrat, kiracılar, sahipler ve kiralama işlemleri arasındaki etkileşimleri güvenli ve verimli bir şekilde yönetmek için kullanılabilir. 
